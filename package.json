@@ -1,0 +1,16 @@
+{
+  "name": "magiceden-scraper",
+  "version": "1.0.0",
+  "description": "gets the latest activity for a project",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Isaac Juracich",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^101.0.0",
+    "selenium-webdriver": "^4.1.2"
+  }
+}
