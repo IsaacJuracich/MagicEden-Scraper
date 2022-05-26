@@ -8,4 +8,4 @@
 
 > https://magiceden.io/marketplace/?activeTab=activity
 
-                                ^ project name goes here
+                                  ^ project name goes here
